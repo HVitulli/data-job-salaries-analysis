@@ -5,17 +5,17 @@ This is a project to explore the salaries of Data Analysts, Data Scientists, Dat
 
 ---
 ## Main links
-- Data treatment: [link](https://github.com/HVitulli/data-job-salaries-analysis/blob/main/python/job_salary_treated.ipynb)
-- Exploratory data analysis: [link](https://github.com/HVitulli/data-job-salaries-analysis/blob/main/python/job_salary_eda.ipynb)
-- Presentation: [link](https://docs.google.com/presentation/d/1WPolC-jk4RC7iB8BbaYMFFtfvctkAAtwg5eXN9pGFSo/edit?usp=sharing)
-- Data visualization: coming soon...
+- **Data treatment:** [link](https://github.com/HVitulli/data-job-salaries-analysis/blob/main/python/job_salary_treated.ipynb)
+- **Exploratory data analysis:** [link](https://github.com/HVitulli/data-job-salaries-analysis/blob/main/python/job_salary_eda.ipynb)
+- **Presentation:** [link](https://docs.google.com/presentation/d/1WPolC-jk4RC7iB8BbaYMFFtfvctkAAtwg5eXN9pGFSo/edit?usp=sharing)
+- **Data visualization:** coming soon...
 
 ---
 ## Tools used in the project
 
 This project was developed in one week, and the tools used are:
-- Google Colab (Python Notebook): Used for data treatment and exploratory data analysis (EDA). Utilized libraries include Pandas, NumPy, Matplotlib, and Seaborn.
-- Google Presentation: Utilized to present the charts, observations and conclusions derived from the Exploratory Data Analysis (EDA).
-- Looker Studio: Employed for creating data visualizations.
-- Figma: Utilized for image editing and mockup creation.
-- Notion: Used for task management.
+- **Google Colab (Python Notebook):** Used for data treatment and exploratory data analysis (EDA). Utilized libraries include Pandas, NumPy, Matplotlib, and Seaborn.
+- **Google Presentation:** Utilized to present the charts, observations and conclusions derived from the Exploratory Data Analysis (EDA).
+- **Looker Studio:** Employed for creating data visualizations.
+- **Figma:** Utilized for image editing and mockup creation.
+- **Notion:** Used for task management.
