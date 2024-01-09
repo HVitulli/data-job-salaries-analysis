@@ -1,5 +1,6 @@
 # EDA presentation
 
+---
 
 Here are the main charts, thoughts, and conclusions obtained from the analysis conducted in Python.
 
