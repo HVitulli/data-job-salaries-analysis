@@ -5,10 +5,10 @@ This is a project to explore the salaries of Data Analysts, Data Scientists, Dat
 
 ---
 ## Main links
-- Data treatment:
-- Exploratory data analysis:
-- Presentation: 
-- Data visualization:
+- Data treatment: [link](https://github.com/HVitulli/data-job-salaries-analysis/blob/main/python/job_salary_treated.ipynb)
+- Exploratory data analysis: [link](https://github.com/HVitulli/data-job-salaries-analysis/blob/main/python/job_salary_eda.ipynb)
+- Presentation: [link](https://docs.google.com/presentation/d/1WPolC-jk4RC7iB8BbaYMFFtfvctkAAtwg5eXN9pGFSo/edit?usp=sharing)
+- Data visualization: coming soon...
 
 ---
 ## Tools used in the project
