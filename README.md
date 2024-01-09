@@ -7,6 +7,7 @@ This is a project to explore the salaries of Data Analysts, Data Scientists, Dat
 ## Main links
 - Data treatment:
 - Exploratory data analysis:
+- Presentation: 
 - Data visualization:
 
 ---
