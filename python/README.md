@@ -8,7 +8,7 @@
   - company_size_values: Acronyms were replaced with their full names, for instance, S -> Small.
   - company_location & employee_residence: Acronyms were replaced with their full names, for instance, BR -> Brazil.
 - Only one field was created from the original database, called work_model. It's based on the remote_ratio, for instance, if remote_ratio = 0, then work_model = In-Person.
-- If you prefer to access the code on Google Colab, (click here.)[https://colab.research.google.com/drive/1FZuYBHNml6CFe0g2nEx1sjyl6QelpeH4?usp=sharing]
+- If you prefer to access the code on Google Colab, [click here.](https://colab.research.google.com/drive/1FZuYBHNml6CFe0g2nEx1sjyl6QelpeH4?usp=sharing)
 ---
 ## job_salary_eda:
 - Here was made the data exploration.
@@ -20,7 +20,7 @@
   4. Which are the countries with the lowest salaries in 2023?
   5. Which countries have the highest number of salary records by career in 2023?
   6. What is the average salary by company size?
-- If you prefer to access the code on Google Colab, (click here.)[https://colab.research.google.com/drive/1rxwhyHy3zaldyQ6dWf1nvEicyAdwyGr3?usp=sharing]
+- If you prefer to access the code on Google Colab, [click here.](https://colab.research.google.com/drive/1rxwhyHy3zaldyQ6dWf1nvEicyAdwyGr3?usp=sharing)
 
 
 
